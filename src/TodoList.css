@@ -1,0 +1,19 @@
+.TodoList{
+    display: flex;
+    flex-direction: column;
+    list-style-type: none;
+    margin: 0;
+    padding-left: 0;
+    width: 30%;
+    box-shadow: 0 0 1px .5px grey;
+}
+.Todos{
+    font-size: .9em;
+    padding: 15px;
+    border: .1mm solid rgb(233, 230, 230);
+}
+
+.TodoListDiv{
+    display: flex;
+    justify-content: center;
+}
